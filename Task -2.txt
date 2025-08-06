@@ -1,0 +1,64 @@
+Subject: Final Warning: Your Microsoft Account Will Be Deactivated
+From: "Microsoft Support" support@microsoftacc-secure.com
+To: user@example.com
+Date: 05 Aug 2025
+
+Dear User,
+
+Due to unusual activity detected on your Microsoft account, we are initiating a security lock.
+To avoid account termination, please verify your identity by clicking the link below:
+
+Reactivate Account
+
+If we do not receive your verification within 12 hours, your account will be permanently deactivated.
+
+Regards,
+Microsoft Account Security Team
+
+1. Sender’s Email Address
+Email shown: support@microsoftacc-secure.com
+
+Phishing Indicator: Not a valid Microsoft domain; looks deceptively similar.
+
+2. Email Headers (analyzed via tool)
+Header results:
+
+Return-Path: mismatch with microsoft.com
+
+SPF: soft fail
+
+DKIM: not configured
+
+Phishing Indicator: Email fails security checks. Likely spoofed.
+
+3. Suspicious Links
+Link text: Reactivate Account
+
+Hover URL: http://m1crosoft-verify.com/login
+
+Phishing Indicator: Uses number “1” in place of letter “i” (m1crosoft) – classic homoglyph attack.
+
+4. Urgent or Threatening Language
+Words like:
+
+“Final Warning”
+
+“account termination”
+
+“within 12 hours”
+
+Phishing Indicator: Tries to pressure recipient into immediate action.
+
+5. Spelling or Grammar Issues
+Slightly awkward phrasing:
+
+“we are initiating a security lock”
+
+“receive your verification” (missing “response” or “confirmation”)
+
+Minor Indicator: Not outright wrong, but slightly unnatural wording suggests it may not be from a professional sender.
+
+6. Mismatched URLs
+Displayed text is clean, but actual link is fake (m1crosoft-verify.com)
+
+Phishing Indicator: Misleading/masked link designed to fool user.
